@@ -1,9 +1,9 @@
 id=novolteicon
-name=Kill VoLTE Status Icon
+name=Kill VoLTE Status Icon {HTC10}
 version=v1
 versionCode=1
 author=ibrokemypie
-description=Removes the annoying and huge VoLTE status bar icon without disabling anything
+description=Removes the annoying and huge VoLTE status bar icon of HTC 10 without disabling anything
 support=
 donate=
 cacheModule=false
