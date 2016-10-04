@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=acoustix29Stock
+name=AcoustiX v29 Stock
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=ZeroInfinity
+description=This modification aims to modify and use the full potential of Dolby Audio on HTC Devices with HTC BoomSound with Dolby Audio. It modifies the BoomSound profiles in Settings, you can switch to whichever one you want any time. The information below will indicate which BoomSound profile will be the custom AcoustiX Preset chosen.
+support=http://forum.xda-developers.com/showthread.php?t=2211163
+donate=
 cacheModule=false
