@@ -1,0 +1,9 @@
+id=novolteicon
+name=Kill VoLTE Status Icon
+version=v1
+versionCode=1
+author=ibrokemypie
+description=Removes the annoying and huge VoLTE status bar icon without disabling anything
+support=
+donate=
+cacheModule=false
