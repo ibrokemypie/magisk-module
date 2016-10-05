@@ -14,7 +14,7 @@
   <!--PROPERTY OF ZEROINFINITY, DO NOT STEAL. IF FOUND IN OTHER SOUNDMODS, PLEASE REPORT ASAP!-->
   <!--Earphones: AcoustiX HiFi -->
   <profile id="movie" name="Speaker">
-    <data>aoon=[2] dea=[10] ded=[0] deon=[1] dhrg=[0] dhsb=[0] dssb=[255] dssf=[200] dvla=[0] dvle=[1] dvme=[0] gebg=[0, 0, 0, 0, 0, 0, -16, -64, -112, -160, -192, -160, -112, -64, -16, 16, 64, 112, 160, 192] geon=[0] iea=[10] ieon=[1] ngon=[1] plb=[0] plmd=[4] vdhe=[0] vmb=[128] vmon=[1] vspe=[1]</data>
+    <data>aoon=[2] dea=[10] ded=[0] deon=[1] dhrg=[0] dhsb=[0] dssb=[255] dssf=[200] dvla=[0] dvle=[1] dvme=[0] gebg=[0, 0, 0, 0, 0, 0, -16, -64, -112, -160, -192, -160, -112, -64, -16, 16, 64, 112, 160, 192] geon=[0] iea=[10] ieon=[1] ngon=[1] plb=[0] plmd=[4] vdhe=[0] vmb=[64] vmon=[1] vspe=[1]</data>
     <include preset="ieq_open" />
   </profile>
   <!--PROPERTY OF ZEROINFINITY, DO NOT STEAL. IF FOUND IN OTHER SOUNDMODS, PLEASE REPORT ASAP!-->
